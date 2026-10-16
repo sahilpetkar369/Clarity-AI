@@ -22,7 +22,7 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 5000
 
 Then open the app in a browser at:
 
-- https://www.designarena.ai/chat/74c8ca4f-d763-4f05-aa33-b62c13fc1a97?matchup=f3986c1f-29f7-4415-80af-eca7e8f0aeab
+-file:///C:/Users/sahil/AppData/Local/Temp/309b47e2-db23-479c-9290-e3199813a909_website-ac71273d-c92f-4ff3-88f1-c517e7656d0a.zip.909/index.html
 
 ## Architecture
 
